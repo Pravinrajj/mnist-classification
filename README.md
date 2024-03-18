@@ -161,4 +161,4 @@ plt.imshow(img_28_gray_scaled.reshape(28,28),cmap='gray')
 ![image](https://github.com/Pravinrajj/mnist-classification/assets/117917674/8369cb3b-cec6-485e-8e47-4a8f0252c4ed)
 
 ## RESULT
-Include your result here.
+Thus, a convolutional deep neural network for digit classification and to verify the response for scanned handwritten images is written and executed successfully.
