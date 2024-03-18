@@ -144,21 +144,22 @@ plt.imshow(img_28_gray_scaled.reshape(28,28),cmap='gray')
 ## OUTPUT
 
 ### Training Loss, Validation Loss Vs Iteration Plot
-![image](https://github.com/Pravinrajj/mnist-classification/assets/117917674/edd23e27-8497-42d4-85b6-d64ba7b6cb55)
+<img height=15% width=45% src="https://github.com/Pravinrajj/mnist-classification/assets/117917674/11d97320-ff23-4afe-bc8f-5ef11902d2bb">
+<img height=15% weight=45% src="https://github.com/Pravinrajj/mnist-classification/assets/117917674/c137e5bc-2964-40b7-8eeb-0c2dac3a98d0">
 
 ### Classification Report
-![image](https://github.com/Pravinrajj/mnist-classification/assets/117917674/0c40eb14-a796-4535-9a4f-bdca220f612b)
+![image](https://github.com/Pravinrajj/mnist-classification/assets/117917674/7b7572f7-57d4-4182-b7e1-150d4aea4e6f)
 
 ### Confusion Matrix
-![image](https://github.com/Pravinrajj/mnist-classification/assets/117917674/3c63e80a-e815-4d10-b5b3-523df96858a5)
+![image](https://github.com/Pravinrajj/mnist-classification/assets/117917674/820a26b9-1454-4330-b52b-937dfaa71e09)
 
 ### New Sample Data Prediction
 #### Input:
 ![image](https://github.com/Pravinrajj/mnist-classification/assets/117917674/e235c728-b71d-48a1-8078-90e01f34ac67)
 #### Output:
-![image](https://github.com/Pravinrajj/mnist-classification/assets/117917674/7889dffc-e098-4ec9-bbeb-ae85d9ea8831)
+![image](https://github.com/Pravinrajj/mnist-classification/assets/117917674/8cd83111-39a0-4131-80f4-0f1dfebf58ce)
 
-![image](https://github.com/Pravinrajj/mnist-classification/assets/117917674/8369cb3b-cec6-485e-8e47-4a8f0252c4ed)
+![image](https://github.com/Pravinrajj/mnist-classification/assets/117917674/7abb68a5-02bf-42aa-8c56-1a6d9d2b6ce5)
 
 ## RESULT
 Thus, a convolutional deep neural network for digit classification and to verify the response for scanned handwritten images is written and executed successfully.
