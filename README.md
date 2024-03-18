@@ -10,6 +10,7 @@ Digit classification and to verify the response for scanned handwritten images.
 The MNIST dataset is a collection of handwritten digits. The task is to classify a given image of a handwritten digit into one of 10 classes representing integer values from 0 to 9, inclusively. The dataset has a collection of 60,000 handwrittend digits of size 28 X 28. Here we build a convolutional neural network model that is able to classify to it's appropriate numerical value.
 
 ## Neural Network Model
+![image](https://github.com/Pravinrajj/mnist-classification/assets/117917674/c8ed1138-8e1f-489b-96eb-a89cd5b81918)
 
 ## DESIGN STEPS
 
@@ -143,20 +144,20 @@ plt.imshow(img_28_gray_scaled.reshape(28,28),cmap='gray')
 ## OUTPUT
 
 ### Training Loss, Validation Loss Vs Iteration Plot
-
-Include your plot here
+![image](https://github.com/Pravinrajj/mnist-classification/assets/117917674/edd23e27-8497-42d4-85b6-d64ba7b6cb55)
 
 ### Classification Report
-
-Include Classification Report here
+![image](https://github.com/Pravinrajj/mnist-classification/assets/117917674/0c40eb14-a796-4535-9a4f-bdca220f612b)
 
 ### Confusion Matrix
-
-Include confusion matrix here
+![image](https://github.com/Pravinrajj/mnist-classification/assets/117917674/3c63e80a-e815-4d10-b5b3-523df96858a5)
 
 ### New Sample Data Prediction
-
-Include your sample input and output for your hand written images.
+#### Input:
+![image](https://github.com/Pravinrajj/mnist-classification/assets/117917674/e235c728-b71d-48a1-8078-90e01f34ac67)
+#### Output:
+![image](https://github.com/Pravinrajj/mnist-classification/assets/117917674/7889dffc-e098-4ec9-bbeb-ae85d9ea8831)
+![image](https://github.com/Pravinrajj/mnist-classification/assets/117917674/8369cb3b-cec6-485e-8e47-4a8f0252c4ed)
 
 ## RESULT
 Include your result here.
