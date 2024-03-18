@@ -157,6 +157,7 @@ plt.imshow(img_28_gray_scaled.reshape(28,28),cmap='gray')
 ![image](https://github.com/Pravinrajj/mnist-classification/assets/117917674/e235c728-b71d-48a1-8078-90e01f34ac67)
 #### Output:
 ![image](https://github.com/Pravinrajj/mnist-classification/assets/117917674/7889dffc-e098-4ec9-bbeb-ae85d9ea8831)
+
 ![image](https://github.com/Pravinrajj/mnist-classification/assets/117917674/8369cb3b-cec6-485e-8e47-4a8f0252c4ed)
 
 ## RESULT
