@@ -122,9 +122,9 @@ metrics[['accuracy','val_accuracy']].plot()
 metrics[['loss','val_loss']].plot()
 
 x_test_predictions = np.argmax(model.predict(X_test_scaled), axis=1)
-
+print("PRAVINRAJJ G.K : 212222240080")
 print(confusion_matrix(y_test,x_test_predictions))
-
+print("PRAVINRAJJ G.K : 212222240080")
 print(classification_report(y_test,x_test_predictions))
 
 img = image.load_img('two.png')
@@ -138,6 +138,7 @@ img_28_gray_scaled = img_28_gray.numpy()/255.0
 x_single_prediction = np.argmax(
     model.predict(img_28_gray_scaled.reshape(1,28,28,1)),
      axis=1)
+print("PRAVINRAJJ G.K : 212222240080")
 print(x_single_prediction)
 plt.imshow(img_28_gray_scaled.reshape(28,28),cmap='gray')
 ```
